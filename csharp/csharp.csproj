@@ -63,8 +63,12 @@
   <ItemGroup>
     <Compile Include="ApprovalTest.cs" />
     <Compile Include="GildedRose.cs" />
+    <Compile Include="GildedRoseRefactoring.cs" />
     <Compile Include="GildedRoseTest.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="ItemAgedBad.cs" />
+    <Compile Include="ItemAgedWell.cs" />
+    <Compile Include="ItemRose.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
